@@ -1,0 +1,1 @@
+FROM tunathu/bandersnatch:latest
