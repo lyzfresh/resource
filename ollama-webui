@@ -1,1 +1,1 @@
-FRPM ollamawebui/ollama-webui:latest
+FROM ollamawebui/ollama-webui:latest
